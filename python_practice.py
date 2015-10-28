@@ -1,1 +1,2 @@
-print "Python Practice changed"
+import random
+print random.randrange(1,30)
